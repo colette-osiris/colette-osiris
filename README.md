@@ -5,7 +5,7 @@ I'm a senior at the University of Maryland finishing a self-designed B.S. in Bio
 ### What I'm working on
 
 - **[MTHFR C677T & Fatty Liver Disease Biomarker Analysis](https://github.com/colette-osiris/mthfr-fld-capstone)** — IVSP capstone investigating whether biomarkers associated with the MTHFR C677T variant show concordant patterns in population-level Fatty Liver Disease data. Quarto pipeline running Python ingest, three-schema PostgreSQL staging, scikit-learn classification, and an R diagnostic layer, deployed via GitHub Pages. [Live site](https://colette-osiris.github.io/mthfr-fld-capstone/)
-- **[gnomAD MTHFR Variant Distribution Analysis](https://github.com/colette-osiris/[REPO-NAME])** — Two-stage R/tidyverse pipeline analyzing 2,879 MTHFR variants across 10 population strata, with documented per-variable filtering rationale and threshold conventions for full analytical reproducibility.
+- **[gnomAD MTHFR Variant Distribution Analysis](https://github.com/colette-osiris/mthfr-gnomad-analysis)** — Two-stage R/tidyverse pipeline analyzing 2,879 MTHFR variants across 10 population strata, with documented per-variable filtering rationale and threshold conventions for full analytical reproducibility.
 - **Pop Lab @ UMIACS** — Research assistant developing a Nextflow DSL2 pipeline (FASTQC + Trimmomatic, paired-end channel handling, SLURM batch submission) on the lab's HPC cluster for metagenomic assembly verification.
 
 ### Coming soon to this profile
