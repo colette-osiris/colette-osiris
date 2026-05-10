@@ -17,6 +17,3 @@ I'm a senior at the University of Maryland finishing a self-designed B.S. in Bio
 
 `Python` `R` `SQL/PostgreSQL` `Bash/Linux` `Quarto` `Nextflow` `SLURM` `Git` `NetCDF` `HDF5` `Cartopy`
 
-### Reach me
-
-📫 cosiris@terpmail.umd.edu
